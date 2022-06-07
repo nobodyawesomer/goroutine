@@ -1,5 +1,3 @@
-use core::time;
-
 use goroutine::go;
 
 fn count(n: u32, place: &str) {

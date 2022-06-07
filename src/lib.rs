@@ -1,5 +1,3 @@
-use core::time;
-
 
 pub fn go<F>(run: F)
 where
