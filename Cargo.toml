@@ -10,5 +10,7 @@ license = "MIT"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+crossbeam = "0.8.1"
+futures = "0.3.21"
 quote = "1.0.18"
 syn = "1.0.96"
